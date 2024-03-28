@@ -1,3 +1,4 @@
 venv
 my_database.db
 TZ.txt
+__pycache__
